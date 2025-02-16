@@ -1,19 +1,21 @@
 <h1 align="center">
-  Hey there! 👋
+  Hi there! <img src="https://images-ext-2.discordapp.net/external/zXfi4pbNQnDyPEIwL0SI1SDa1en5JprLMu8g7snfcpk/https/cdn.discordapp.com/emojis/1070539611870347284.png" width="30px">
 </h1>
 
 <p align="center">
   <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg" />
 </p>
 
+<h2 align="center">👤 About Me</h2>
+
 <p align="center">
-  <strong>Lucas</strong> | 15 y/o | Brazil 🇧🇷  
-  Passionate about coding, software development, and creating impactful tech solutions.
+  Hey! My name is <strong>Lucas</strong>, a 15-year-old programming enthusiast from Brazil 🇧🇷.  
+  Passionate about software development, always exploring new technologies and building cool projects!
 </p>
 
 ---
 
-<h2 align="center">🚀 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260">
@@ -29,7 +31,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -39,9 +41,9 @@
 </p>
 
 <p align="center">
-  Skilled in <strong>Node.js</strong> for backend applications and <strong>Python</strong> for scripting and automation.  
-  Currently diving deeper into <strong>Java</strong> and <strong>C++</strong> for broader development skills.  
-  Focused on building APIs, Discord bots, and development tools to enhance third-party projects.
+  I have experience with <strong>Node.js</strong> for scalable applications and <strong>Python</strong> for scripting and automation.  
+  Currently diving into <strong>Java</strong> and <strong>C++</strong> to expand my programming knowledge.  
+  I love building APIs, Discord bots, and development tools to enhance third-party projects!
 </p>
 
 ---
@@ -49,9 +51,8 @@
 <h2 align="center">📚 Learning & Growth</h2>
 
 <p align="center">
-  Self-taught programmer constantly exploring new technologies.  
-  Engaged in online learning, hands-on projects, and tech communities.  
-  Always striving to stay ahead in the fast-paced world of software development.
+  Self-taught programmer actively learning through online courses and real-world projects.  
+  Always staying up-to-date with the latest trends in software development.
 </p>
 
 ---
@@ -65,9 +66,9 @@
 
 ---
 
-<h2 align="center">📩 Let's Connect!</h2>
+<h2 align="center">📩 Get in Touch</h2>
 
 <p align="center">
-  I'm always open to collaborations, learning opportunities, and discussions.  
-  Feel free to reach out through any of my social media links above!
+  Always open to collaborations and tech discussions.  
+  Feel free to reach out through any of my social links above! 🚀
 </p>
