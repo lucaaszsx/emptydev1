@@ -8,7 +8,14 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate about coding | 🎯 Focused on backend & automation | 🌎 Open-source contributor  
+  <img src="https://img.shields.io/badge/Code-Passion-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Building-Scalable%20APIs-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  Self-taught developer passionate about programming and building cool projects.  
+  Focused on backend development, automation, and scalable solutions.
 </p>
 
 ---
@@ -19,28 +26,27 @@
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,express,mongodb,postgresql,mysql,docker,git,linux" />
 </p>
 
-- 🟢 **Backend:** Node.js (Express.js), Python  
-- 📡 **Databases:** MongoDB, PostgreSQL, MySQL  
-- ⚙️ **Tools & DevOps:** Docker, Git, Linux  
+💡 **Backend Development:** Node.js (Express.js), Python  
+📡 **Databases:** MongoDB, PostgreSQL, MySQL  
+⚙️ **DevOps & Tools:** Docker, Git, Linux  
 
-🔹 Specializing in **high-performance backend solutions** and **automation**.  
-🔹 Currently diving deeper into **Java** and **C++** to optimize system performance.
+I specialize in **backend development** using **Node.js** and **Python**, with experience in **databases, API development, and automation**.  
+Currently, I'm exploring **Java** and **C++** to expand my knowledge in system programming and performance optimization.
 
 ---
 
-## 📂 Open-Source & Contributions  
+## 📂 Contributions & Open Source  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="60%">
-</p>
+<img src="https://user-images.githubusercontent.com/84385038/184515405-f6fd1e32-b043-4fbd-a4c5-27f49878c39b.gif" width="100%" />
 
-I love contributing to **open-source projects** that help developers build faster and smarter! 🚀  
+I believe in the power of **open-source** and love contributing to projects that **help developers**.  
+If you're working on something cool and need help, feel free to reach out!  
 
-✔️ Built **Discord bots** and **automation tools**  
-✔️ Created **custom APIs** for various applications  
-✔️ Always open to **collaborating on new ideas**  
+- ✅ Contributed to **open-source libraries and Discord bots**  
+- 🔧 Built tools to **automate workflows** and **improve efficiency**  
+- 🚀 Always looking for **new challenges** in the tech community  
 
-💡 **Want to work on something together? Fork my repos or hit me up!**  
+Want to collaborate? **Fork my projects, open issues, or create a PR!** 🚀  
 
 ---
 
@@ -56,9 +62,7 @@ I love contributing to **open-source projects** that help developers build faste
 
 ## 🌎 Connect with Me  
 
-<p align="center">
-  If you love tech, coding, or open-source, let's talk!  
-</p>
+If you want to talk about **tech, open-source, or just share ideas**, hit me up!  
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260">
